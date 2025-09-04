@@ -1,0 +1,29 @@
+ h1{
+    font-family: serif;
+    text-transform: uppercase;
+    margin: 10px;
+    padding: 10px;
+    border: 10pc;
+    text-align: center;
+    color: rgb(44, 44, 4);
+    background-color: rgba(0, 255, 255, 0.199);
+    text-shadow: 9px 9px 6px rgb(71, 2, 2);
+}
+    
+h2{
+    text-transform: uppercase;
+    text-align: left;
+    padding: 50px;
+    color: rgba(0, 0, 75, 0.842);
+    font-family: cambria;
+    font-weight: 200;
+    font-style: normal;
+    text-decoration: underline;
+    background-color: rgba(127, 255, 212, 0.116);
+    font-weight:bolder;
+}
+div>ol>li>a{
+    text-decoration: none;
+    padding: 5px;
+    margin: 6px;
+}
